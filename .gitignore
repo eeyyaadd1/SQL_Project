@@ -1,0 +1,21 @@
+data_jobs_salary_monthly.xlsx
+postgres.session.sql
+sql_load/3_modify_tables.sql
+sql_load/2_create_tables.sql
+sql_load/1_create_database.sql
+csv_files/company_dim.csv
+csv_files/skills_dim.csv
+csv_files/job_postings_fact.csv
+csv_files/skills_job_dim.csv
+Advanced_sql/problem_8.sql
+Advanced_sql/problem_7.sql
+Advanced_sql/problem_6.sql
+Advanced_sql/5_unions.sql
+Advanced_sql/4_subqueries_CTE.sql
+Advanced_sql/3_cases.sql
+Advanced_sql/1_manipulate_tables.sql
+Advanced_sql/2_dates.sql
+.vscode/settings.json
+window_Analytical functions .pdf
+SQL-Cheat-Sheet.pdf
+sql_course.sql
