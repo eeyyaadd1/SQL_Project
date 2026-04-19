@@ -30,7 +30,6 @@ LIMIT 10;
 Here's the breakdown of the top data engineer jobs in 2023:
 Wide Salary Range: Top 10 paying data engineer roles span from $242,000 to $325,000, indicating significant salary potential in the field.
 Diverse Employers: Companies like Engtal, Durlston Partners, and Twitch are among those offering high salaries, showing a broad interest across different industries.
-Job Title Variety: There's a high diversity in job titles, from Data Engineer to Principal Data Engineer, reflecting varied roles and specializations within data engineering.
 
 RESULTS
 =======
