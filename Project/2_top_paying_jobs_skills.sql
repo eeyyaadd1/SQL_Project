@@ -41,112 +41,112 @@ ORDER BY salary_year_avg DESC;
 
 [
   {
-    "job_id": 157003,
+    "job_id": 21321,
     "job_title": "Data Engineer",
     "company_name": "Engtal",
     "salary_year_avg": "325000.0",
     "skills": "python"
   },
   {
-    "job_id": 157003,
+    "job_id": 21321,
     "job_title": "Data Engineer",
     "company_name": "Engtal",
     "salary_year_avg": "325000.0",
     "skills": "spark"
   },
   {
-    "job_id": 157003,
+    "job_id": 21321,
     "job_title": "Data Engineer",
     "company_name": "Engtal",
     "salary_year_avg": "325000.0",
     "skills": "pandas"
   },
   {
-    "job_id": 157003,
+    "job_id": 21321,
     "job_title": "Data Engineer",
     "company_name": "Engtal",
     "salary_year_avg": "325000.0",
     "skills": "numpy"
   },
   {
-    "job_id": 157003,
+    "job_id": 21321,
     "job_title": "Data Engineer",
     "company_name": "Engtal",
     "salary_year_avg": "325000.0",
     "skills": "pyspark"
   },
   {
-    "job_id": 157003,
+    "job_id": 21321,
     "job_title": "Data Engineer",
     "company_name": "Engtal",
     "salary_year_avg": "325000.0",
     "skills": "hadoop"
   },
   {
-    "job_id": 157003,
+    "job_id": 21321,
     "job_title": "Data Engineer",
     "company_name": "Engtal",
     "salary_year_avg": "325000.0",
     "skills": "kafka"
   },
   {
-    "job_id": 157003,
+    "job_id": 21321,
     "job_title": "Data Engineer",
     "company_name": "Engtal",
     "salary_year_avg": "325000.0",
     "skills": "kubernetes"
   },
   {
-    "job_id": 21321,
+    "job_id": 157003,
     "job_title": "Data Engineer",
     "company_name": "Engtal",
     "salary_year_avg": "325000.0",
     "skills": "python"
   },
   {
-    "job_id": 21321,
+    "job_id": 157003,
     "job_title": "Data Engineer",
     "company_name": "Engtal",
     "salary_year_avg": "325000.0",
     "skills": "spark"
   },
   {
-    "job_id": 21321,
+    "job_id": 157003,
     "job_title": "Data Engineer",
     "company_name": "Engtal",
     "salary_year_avg": "325000.0",
     "skills": "pandas"
   },
   {
-    "job_id": 21321,
+    "job_id": 157003,
     "job_title": "Data Engineer",
     "company_name": "Engtal",
     "salary_year_avg": "325000.0",
     "skills": "numpy"
   },
   {
-    "job_id": 21321,
+    "job_id": 157003,
     "job_title": "Data Engineer",
     "company_name": "Engtal",
     "salary_year_avg": "325000.0",
     "skills": "pyspark"
   },
   {
-    "job_id": 21321,
+    "job_id": 157003,
     "job_title": "Data Engineer",
     "company_name": "Engtal",
     "salary_year_avg": "325000.0",
     "skills": "hadoop"
   },
   {
-    "job_id": 21321,
+    "job_id": 157003,
     "job_title": "Data Engineer",
     "company_name": "Engtal",
     "salary_year_avg": "325000.0",
     "skills": "kafka"
   },
   {
-    "job_id": 21321,
+    "job_id": 157003,
     "job_title": "Data Engineer",
     "company_name": "Engtal",
     "salary_year_avg": "325000.0",
@@ -209,57 +209,57 @@ ORDER BY salary_year_avg DESC;
     "skills": "pytorch"
   },
   {
-    "job_id": 543728,
-    "job_title": "Staff Data Engineer",
+    "job_id": 595768,
+    "job_title": "Principal Data Engineer",
     "company_name": "Signify Technology",
     "salary_year_avg": "250000.0",
     "skills": "python"
   },
   {
-    "job_id": 543728,
-    "job_title": "Staff Data Engineer",
+    "job_id": 595768,
+    "job_title": "Principal Data Engineer",
     "company_name": "Signify Technology",
     "salary_year_avg": "250000.0",
     "skills": "scala"
   },
   {
-    "job_id": 543728,
-    "job_title": "Staff Data Engineer",
+    "job_id": 595768,
+    "job_title": "Principal Data Engineer",
     "company_name": "Signify Technology",
     "salary_year_avg": "250000.0",
     "skills": "databricks"
   },
   {
-    "job_id": 543728,
-    "job_title": "Staff Data Engineer",
+    "job_id": 595768,
+    "job_title": "Principal Data Engineer",
     "company_name": "Signify Technology",
     "salary_year_avg": "250000.0",
     "skills": "spark"
   },
   {
-    "job_id": 595768,
-    "job_title": "Principal Data Engineer",
+    "job_id": 543728,
+    "job_title": "Staff Data Engineer",
     "company_name": "Signify Technology",
     "salary_year_avg": "250000.0",
     "skills": "python"
   },
   {
-    "job_id": 595768,
-    "job_title": "Principal Data Engineer",
+    "job_id": 543728,
+    "job_title": "Staff Data Engineer",
     "company_name": "Signify Technology",
     "salary_year_avg": "250000.0",
     "skills": "scala"
   },
   {
-    "job_id": 595768,
-    "job_title": "Principal Data Engineer",
+    "job_id": 543728,
+    "job_title": "Staff Data Engineer",
     "company_name": "Signify Technology",
     "salary_year_avg": "250000.0",
     "skills": "databricks"
   },
   {
-    "job_id": 595768,
-    "job_title": "Principal Data Engineer",
+    "job_id": 543728,
+    "job_title": "Staff Data Engineer",
     "company_name": "Signify Technology",
     "salary_year_avg": "250000.0",
     "skills": "spark"
